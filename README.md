@@ -3,9 +3,9 @@
 This repo contains samples of technical writing from my previous roles and my [Medium blog](https://grem.medium.com/).
 
 ## Topics
-- [Guides]()
-- [API documentation]()
-- [Best Practices]()
+- [Guides](/guides)
+- [API documentation](/api-docs)
+- [Best Practices](/best-practices)
 
 ## Why the PDFs?
 
