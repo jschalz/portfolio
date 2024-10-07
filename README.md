@@ -4,7 +4,7 @@ This repo contains samples of technical writing from my previous roles and my [M
 
 ## Topics
 - [Guides](/guides)
-- [API documentation](/api-docs)
+- [API Documentation](/api-docs)
 - [Best Practices](/best-practices)
 
 ## Why the PDFs?
